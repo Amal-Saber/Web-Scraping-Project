@@ -1,0 +1,539 @@
+address,price,area_in_m2,num_of_rooms,features
+1051 GD Amsterdam (Staatsliedenbuurt),"€1,750 per month",45,2,Upholstered
+1054 BM Amsterdam (Helmersbuurt),"€2,150 per month",68,3,Upholstered
+1054 LB Amsterdam (Overtoomse Sluis),"€2,350 per month",50,3,Furnished
+1018 TZ Amsterdam (Weesperbuurt/Plantage),"€1,650 per month",57,2,Furnished
+1013 LB Amsterdam (Haarlemmerbuurt),"€2,250 per month",63,3,Upholstered
+1031 AG Amsterdam (Volewijck),"€1,600 per month",75,3,
+1011 CM Amsterdam (Nieuwmarkt/Lastage),"€3,250 per month",91,4,Furnished
+1072 SH Amsterdam (Nieuwe Pijp),"€2,250 per month",72,3,Furnished
+1077 TA Amsterdam (Apollobuurt),"€3,000 per month",120,4,Upholstered
+1106 VS Amsterdam (Holendrecht/Reigersbos),"€1,600 per month",60,3,Furnished
+1082 EH Amsterdam (Buitenveldert-West),"€1,650 per month",75,3,
+1053 TT Amsterdam (Kinkerbuurt),"€2,200 per month",64,4,
+1072 LR Amsterdam (Oude Pijp),"€1,825 per month",52,2,Furnished
+1078 RB Amsterdam (IJselbuurt),"€1,250 per month",35,2,
+1055 CZ Amsterdam (Erasmuspark),"€2,150 per month",85,3,Furnished
+1053 HL Amsterdam (Van Lennepbuurt),"€1,750 per month",40,2,Furnished
+1075 EE Amsterdam (Willemspark),"€2,950 per month",90,3,
+1013 NJ Amsterdam (Spaarndammer- en Zeeheldenbuurt),"€2,500 per month",83,2,Furnished
+1059 BD Amsterdam (Hoofddorppleinbuurt),"€3,750 per month",115,5,Upholstered
+1074 EK Amsterdam (Nieuwe Pijp),"€2,950 per month",77,3,Upholstered
+1055 MV Amsterdam (Landlust),"€3,975 per month",110,5,
+1056 EG Amsterdam (Van Galenbuurt),"€1,595 per month",49,3,Upholstered
+1018 RN Amsterdam (Oostelijke Eilanden/Kadijken),"€2,200 per month",75,3,Furnished
+1057 RJ Amsterdam (Hoofdweg e.o.),"€1,850 per month",55,3,Upholstered or furnished
+1015 AC Amsterdam (Grachtengordel-West),"€2,750 per month",75,3,Upholstered
+1054 BM Amsterdam (Helmersbuurt),"€2,250 per month",68,3,Upholstered
+1054 BM Amsterdam (Helmersbuurt),"€4,000 per month",122,4,Upholstered
+1032 BG Amsterdam (Volewijck),"€1,600 per month",70,3,Furnished
+1018 NB Amsterdam (Oostelijke Eilanden/Kadijken),"€2,650 per month",80,3,Furnished
+1015 GS Amsterdam (Jordaan),"€2,300 per month",57,3,Furnished
+1071 RV Amsterdam (Museumkwartier),"€4,250 per month",107,4,Upholstered
+1018 TM Amsterdam (Weesperbuurt/Plantage),"€1,850 per month",55,2,
+1091 KW Amsterdam (Transvaalbuurt),"€1,800 per month",48,2,Furnished
+1025 AR Amsterdam (Buikslotermeer),"€2,500 per month",130,3,
+1079 WJ Amsterdam (Rijnbuurt),"€2,750 per month",115,4,Upholstered
+1017 HX Amsterdam (Grachtengordel-Zuid),"€2,500 per month",70,3,Furnished
+1054 EA Amsterdam (Overtoomse Sluis),"€3,100 per month",70,3,Furnished
+1056 RH Amsterdam (Van Galenbuurt),"€1,850 per month",65,3,Furnished
+1073 BK Amsterdam (Oude Pijp),"€2,145 per month",70,2,Furnished
+1072 TS Amsterdam (Oude Pijp),"€1,695 per month",55,3,
+1053 RR Amsterdam (Kinkerbuurt),"€2,350 per month",77,3,Furnished
+1082 MK Amsterdam (Zuidas),"€3,400 per month",110,3,Furnished
+1024 SJ Amsterdam (Waterlandpleinbuurt),"€1,950 per month",68,3,Upholstered or furnished
+1015 HL Amsterdam (Jordaan),"€1,150 per month",40,1,Upholstered or furnished
+1068 ZZ Amsterdam (Osdorp-Oost),"€1,910 per month",166,4,
+"1102 SR Amsterdam (Bijlmer Centrum (D,F,H))","€1,950 per month",102,3,Furnished
+1018 PR Amsterdam (Oostelijke Eilanden/Kadijken),"€1,950 per month",80,3,Furnished
+1018 HJ Amsterdam (Weesperbuurt/Plantage),"€3,450 per month",140,5,Furnished
+1054 JD Amsterdam (Helmersbuurt),"€2,500 per month",87,3,Upholstered
+1017 NC Amsterdam (De Weteringschans),"€2,000 per month",120,3,Upholstered
+1011 EG Amsterdam (Nieuwmarkt/Lastage),"€1,950 per month",52,3,Upholstered
+1073 EX Amsterdam (Nieuwe Pijp),"€2,450 per month",57,3,Upholstered or furnished
+1016 AV Amsterdam (Grachtengordel-West),"€3,250 per month",170,4,Upholstered
+1015 GC Amsterdam (Grachtengordel-West),"€2,850 per month",138,3,
+1031 HD Amsterdam (Noordelijke IJ-oevers West),"€1,950 per month",48,1,Furnished
+1098 GB Amsterdam (Middenmeer),"€3,250 per month",106,4,Upholstered
+1074 CZ Amsterdam (Oude Pijp),"€3,250 per month",178,5,
+1059 AV Amsterdam (Hoofddorppleinbuurt),"€2,500 per month",90,3,Furnished
+1094 HN Amsterdam (Indische Buurt West),"€1,750 per month",46,2,Furnished
+1060 TX Amsterdam (Middelveldsche Akerpolder),"€2,250 per month",96,4,Furnished
+1016 TJ Amsterdam (Jordaan),"€2,850 per month",119,3,Furnished
+1058 HH Amsterdam (Hoofddorppleinbuurt),"€2,500 per month",85,4,Furnished
+1015 BK Amsterdam (Grachtengordel-West),"€2,200 per month",60,2,Furnished
+1016 RN Amsterdam (Jordaan),"€4,350 per month",150,5,Furnished
+1016 BH Amsterdam (Grachtengordel-West),"€2,850 per month",123,3,Furnished
+1058 CX Amsterdam (Westindische Buurt),"€1,700 per month",59,3,Upholstered
+1056 ET Amsterdam (Geuzenbuurt),"€1,800 per month",63,2,Furnished
+1058 XX Amsterdam (Westindische Buurt),"€2,850 per month",90,4,
+1087 JE Amsterdam (IJburg West),"€2,200 per month",124,4,Upholstered or furnished
+1017 SC Amsterdam (De Weteringschans),"€2,150 per month",68,2,Upholstered
+1018 KZ Amsterdam (Oostelijke Eilanden/Kadijken),"€1,699 per month",43,2,Furnished
+1017 EB Amsterdam (Grachtengordel-Zuid),"€2,750 per month",65,2,Furnished
+1075 HB Amsterdam (Willemspark),"€5,850 per month",245,9,Upholstered
+1017 EB Amsterdam (Grachtengordel-Zuid),"€2,950 per month",84,3,Furnished
+1019 PE Amsterdam (Oostelijk Havengebied),"€1,800 per month",89,2,Furnished
+1059 VP Amsterdam (Hoofddorppleinbuurt),"€1,800 per month",54,2,Furnished
+1012 WL Amsterdam (Burgwallen-Nieuwe Zijde),"€3,450 per month",115,4,Upholstered or furnished
+1076 BJ Amsterdam (Stadionbuurt),"€2,800 per month",100,4,Upholstered
+1087 GZ Amsterdam (IJburg West),"€1,895 per month",114,4,Upholstered
+1059 VL Amsterdam (Westlandgracht),"€3,750 per month",115,4,Upholstered
+1018 KP Amsterdam (Oostelijke Eilanden/Kadijken),"€1,675 per month",60,2,Upholstered
+1069 AA Amsterdam (Osdorp-Midden),"€2,995 per month",138,7,Furnished
+1053 KN Amsterdam (Da Costabuurt),"€2,650 per month",120,3,Upholstered
+1025 RK Amsterdam (Tuindorp Buiksloot),"€2,100 per month",141,4,Furnished
+1057 EZ Amsterdam (Chassébuurt),"€2,950 per month",96,4,Furnished
+1053 RR Amsterdam (Kinkerbuurt),"€2,500 per month",82,3,Furnished
+1019 VR Amsterdam (Oostelijk Havengebied),"€1,995 per month",62,3,Furnished
+1015 RD Amsterdam (Jordaan),"€1,500 per month",45,1,Furnished
+1055 EN Amsterdam (Landlust),"€1,795 per month",60,3,Upholstered
+1011 NA Amsterdam (Nieuwmarkt/Lastage),"€3,150 per month",95,3,Furnished
+1075 RZ Amsterdam (Schinkelbuurt),"€2,150 per month",90,4,Upholstered
+1013 MD Amsterdam (Haarlemmerbuurt),"€3,250 per month",157,2,Furnished
+1087 GZ Amsterdam (IJburg West),"€2,000 per month",137,6,Upholstered
+1012 JE Amsterdam (Burgwallen-Oude Zijde),"€2,275 per month",50,2,Upholstered or furnished
+1055 RB Amsterdam (Landlust),"€1,650 per month",51,3,Upholstered or furnished
+1082 MT Amsterdam (Zuidas),"€3,250 per month",80,3,Furnished
+1082 BX Amsterdam (Buitenveldert-West),"€1,800 per month",76,3,Upholstered or furnished
+1016 HP Amsterdam (Grachtengordel-West),"€5,500 per month",177,4,Upholstered
+1091 AR Amsterdam (Oosterparkbuurt),"€2,750 per month",120,5,Upholstered
+1021 TR Amsterdam (IJplein/Vogelbuurt),"€3,250 per month",130,3,Furnished
+1082 DD Amsterdam (Buitenveldert-West),"€1,850 per month",86,3,
+1091 XS Amsterdam (Transvaalbuurt),"€2,950 per month",85,4,Furnished
+1082 BS Amsterdam (Buitenveldert-West),"€1,850 per month",67,3,Furnished
+1079 KP Amsterdam (Rijnbuurt),"€2,950 per month",75,3,Upholstered
+1051 XC Amsterdam (Staatsliedenbuurt),"€2,200 per month",80,4,Furnished
+1071 AX Amsterdam (Museumkwartier),"€2,250 per month",60,2,Upholstered
+1071 MD Amsterdam (Museumkwartier),"€5,500 per month",144,5,Upholstered or furnished
+1018 MR Amsterdam (Oostelijke Eilanden/Kadijken),"€3,100 per month",100,3,Furnished
+1072 TK Amsterdam (Oude Pijp),"€3,000 per month",102,3,Furnished
+1025 ST Amsterdam (Buikslotermeer),"€2,500 per month",81,4,Upholstered
+1018 TM Amsterdam (Weesperbuurt/Plantage),"€2,100 per month",65,2,Upholstered or furnished
+1018 MN Amsterdam (Oostelijke Eilanden/Kadijken),"€3,250 per month",130,4,Furnished
+1061 BK Amsterdam (De Kolenkit),"€2,300 per month",101,3,Furnished
+"1104 GB Amsterdam (Bijlmer Oost (E,G,K))",€795 per month,46,2,Furnished
+1015 KJ Amsterdam (Jordaan),"€4,500 per month",210,6,Upholstered
+1075 PD Amsterdam (Willemspark),"€2,850 per month",112,4,Upholstered
+1082 BC Amsterdam (Buitenveldert-West),"€14,000 per month",342,8,Upholstered
+1077 NL Amsterdam (Apollobuurt),"€4,450 per month",164,7,Upholstered
+1052 LT Amsterdam (Frederik Hendrikbuurt),"€2,500 per month",43,2,Furnished
+1015 AG Amsterdam (Grachtengordel-West),"€4,000 per month",108,3,Furnished
+1096 GM Amsterdam (Omval/Overamstel),"€3,250 per month",116,4,Furnished
+1017 VZ Amsterdam (De Weteringschans),"€2,950 per month",115,4,Furnished
+1072 LJ Amsterdam (Oude Pijp),"€1,800 per month",40,1,
+1017 VA Amsterdam (De Weteringschans),"€2,850 per month",90,3,Furnished
+1054 KM Amsterdam (Overtoomse Sluis),"€3,750 per month",116,4,Furnished
+1015 SX Amsterdam (Jordaan),"€2,450 per month",73,2,Furnished
+1079 KP Amsterdam (Rijnbuurt),"€2,350 per month",80,2,Furnished
+1076 JN Amsterdam (Stadionbuurt),"€2,400 per month",80,3,Furnished
+1012 EN Amsterdam (Burgwallen-Oude Zijde),"€2,150 per month",80,2,Upholstered
+1024 NB Amsterdam (Waterlandpleinbuurt),"€2,000 per month",100,4,Furnished
+1017 VP Amsterdam (Grachtengordel-Zuid),"€2,600 per month",110,4,Upholstered
+1013 HC Amsterdam (Haarlemmerbuurt),"€3,000 per month",101,3,Furnished
+1019 DC Amsterdam (Oostelijk Havengebied),"€2,795 per month",140,3,Upholstered
+1082 BD Amsterdam (Buitenveldert-West),"€3,950 per month",170,5,Upholstered
+1063 NT Amsterdam (Slotermeer-Zuidwest),"€2,100 per month",120,5,Upholstered
+1083 GP Amsterdam (Buitenveldert-Oost),"€2,950 per month",135,4,Furnished
+1055 AB Amsterdam (Erasmuspark),"€2,400 per month",85,3,Upholstered
+1083 JN Amsterdam (Buitenveldert-Oost),"€2,350 per month",100,4,Furnished
+1015 JR Amsterdam (Jordaan),"€1,800 per month",43,2,Upholstered
+1018 ES Amsterdam (Weesperbuurt/Plantage),"€3,500 per month",82,3,Furnished
+1054 LR Amsterdam (Overtoomse Sluis),"€2,750 per month",84,3,
+1013 LA Amsterdam (Haarlemmerbuurt),"€7,500 per month",236,9,Furnished
+1087 MT Amsterdam (IJburg Zuid),"€3,750 per month",176,4,Upholstered
+1013 LL Amsterdam (Haarlemmerbuurt),"€2,500 per month",73,3,Furnished
+1092 LC Amsterdam (Oosterparkbuurt),"€1,700 per month",97,3,
+1087 LD Amsterdam (IJburg Zuid),"€1,500 per month",120,5,
+1019 NB Amsterdam (Oostelijk Havengebied),"€2,400 per month",102,4,Furnished
+1017 JG Amsterdam (Grachtengordel-Zuid),"€3,750 per month",142,3,Upholstered
+"1102 ST Amsterdam (Bijlmer Centrum (D,F,H))","€2,850 per month",102,3,Furnished
+1064 CS Amsterdam (Slotermeer-Zuidwest),"€1,700 per month",48,2,Furnished
+1013 KN Amsterdam (Haarlemmerbuurt),"€2,200 per month",62,2,Furnished
+1015 BV Amsterdam (Grachtengordel-West),"€7,500 per month",162,3,Upholstered
+1079 MZ Amsterdam (Scheldebuurt),"€1,725 per month",55,2,
+1095 MP Amsterdam (Zeeburgereiland/Nieuwe Diep),"€2,750 per month",126,4,Upholstered
+1017 EB Amsterdam (Grachtengordel-Zuid),"€2,450 per month",42,3,Furnished
+1011 MK Amsterdam (Nieuwmarkt/Lastage),"€2,600 per month",90,3,Furnished
+1056 TA Amsterdam (Van Galenbuurt),"€1,400 per month",65,2,Furnished
+1055 SZ Amsterdam (Erasmuspark),"€2,050 per month",100,5,Upholstered
+"1102 EA Amsterdam (Bijlmer Centrum (D,F,H))","€1,450 per month",90,4,Upholstered
+1079 WV Amsterdam (Rijnbuurt),"€2,150 per month",58,3,Upholstered
+1092 TB Amsterdam (Oosterparkbuurt),"€1,750 per month",88,3,
+1098 JP Amsterdam (Middenmeer),"€2,350 per month",73,4,Furnished
+1082 BJ Amsterdam (Buitenveldert-West),"€1,550 per month",65,3,Upholstered
+1075 XR Amsterdam (Schinkelbuurt),"€2,750 per month",92,4,Furnished
+1013 CW Amsterdam (Haarlemmerbuurt),"€2,300 per month",95,3,Upholstered or furnished
+1071 JH Amsterdam (Museumkwartier),"€4,250 per month",142,4,
+1015 PP Amsterdam (Jordaan),"€2,250 per month",80,2,Upholstered
+1079 KG Amsterdam (Rijnbuurt),"€2,500 per month",65,3,
+1074 EK Amsterdam (Nieuwe Pijp),"€3,750 per month",132,4,Furnished
+1011 GA Amsterdam (Nieuwmarkt/Lastage),"€2,100 per month",120,2,Furnished
+1014 ZB Amsterdam (Houthavens),"€2,200 per month",60,2,Furnished
+1018 MB Amsterdam (Oostelijke Eilanden/Kadijken),"€3,000 per month",120,5,
+1019 HD Amsterdam (Oostelijk Havengebied),"€3,000 per month",146,3,Furnished
+1063 GT Amsterdam (Slotermeer-Noordoost),"€1,750 per month",65,3,Furnished
+1018 MR Amsterdam (Oostelijke Eilanden/Kadijken),"€3,100 per month",100,3,Furnished
+1087 BN Amsterdam (IJburg West),"€1,850 per month",80,3,
+1075 PL Amsterdam (Willemspark),"€3,950 per month",120,4,
+1013 AW Amsterdam (Houthavens),"€2,950 per month",135,5,Furnished
+1059 AV Amsterdam (Hoofddorppleinbuurt),"€2,250 per month",80,3,Furnished
+1093 NH Amsterdam (Dapperbuurt),"€1,850 per month",71,1,Furnished
+1058 BC Amsterdam (Westindische Buurt),"€3,500 per month",155,6,Upholstered
+1013 GT Amsterdam (Haarlemmerbuurt),"€4,675 per month",170,5,
+1072 XW Amsterdam (Oude Pijp),"€2,750 per month",85,3,Upholstered or furnished
+1071 RR Amsterdam (Museumkwartier),"€2,750 per month",100,3,Furnished
+1018 DR Amsterdam (Weesperbuurt/Plantage),"€2,450 per month",50,2,Upholstered or furnished
+1091 TJ Amsterdam (Weesperzijde),"€2,000 per month",49,2,Furnished
+1015 HL Amsterdam (Jordaan),"€1,800 per month",58,3,Furnished
+1056 HS Amsterdam (Landlust),"€2,450 per month",98,4,Furnished
+1071 AZ Amsterdam (Museumkwartier),"€2,650 per month",70,3,Upholstered
+1018 MN Amsterdam (Oostelijke Eilanden/Kadijken),"€2,000 per month",110,4,
+1091 TJ Amsterdam (Weesperzijde),"€2,900 per month",117,4,Furnished
+1108 CJ Amsterdam (Nellestein),"€1,975 per month",100,4,Upholstered or furnished
+1011 BC Amsterdam (Nieuwmarkt/Lastage),"€1,795 per month",45,2,Furnished
+1083 KA Amsterdam (Buitenveldert-Oost),"€2,750 per month",110,3,Furnished
+1051 GX Amsterdam (Staatsliedenbuurt),"€2,150 per month",50,2,Furnished
+1033 WG Amsterdam (Oostzanerwerf),"€3,200 per month",196,6,
+1072 CN Amsterdam (Oude Pijp),"€2,600 per month",100,3,Upholstered
+1017 ES Amsterdam (Grachtengordel-Zuid),"€2,750 per month",78,2,Furnished
+1053 XE Amsterdam (Van Lennepbuurt),"€3,650 per month",130,4,Furnished
+1017 ES Amsterdam (Grachtengordel-Zuid),"€2,750 per month",80,2,Furnished
+1071 ED Amsterdam (Museumkwartier),"€3,700 per month",130,3,Furnished
+1095 MZ Amsterdam (Zeeburgereiland/Nieuwe Diep),"€3,500 per month",160,5,Upholstered or furnished
+1082 NG Amsterdam (Buitenveldert-Oost),"€2,250 per month",85,2,Furnished
+1060 PK Amsterdam (Middelveldsche Akerpolder),"€2,450 per month",120,4,Upholstered or furnished
+1091 TM Amsterdam (Weesperzijde),"€2,095 per month",80,3,Furnished
+1079 NL Amsterdam (Rijnbuurt),"€2,450 per month",110,5,Upholstered
+1053 SE Amsterdam (Van Lennepbuurt),"€1,995 per month",62,3,Upholstered
+1017 RL Amsterdam (De Weteringschans),"€1,675 per month",45,3,Upholstered
+1082 HE Amsterdam (Buitenveldert-West),"€2,100 per month",87,3,Upholstered or furnished
+1066 ET Amsterdam (Sloter-/Riekerpolder),"€3,500 per month",169,6,Upholstered
+1095 MX Amsterdam (Zeeburgereiland/Nieuwe Diep),"€1,595 per month",63,2,Furnished
+1016 HS Amsterdam (Grachtengordel-West),"€1,900 per month",40,2,Upholstered or furnished
+1087 CE Amsterdam (IJburg West),"€2,750 per month",135,5,Upholstered
+1095 MJ Amsterdam (Zeeburgereiland/Nieuwe Diep),"€1,750 per month",70,3,Upholstered or furnished
+1075 TL Amsterdam (Schinkelbuurt),"€2,650 per month",70,4,Upholstered
+1073 VE Amsterdam (Oude Pijp),"€6,000 per month",149,5,Furnished
+1017 DL Amsterdam (Grachtengordel-Zuid),"€3,450 per month",120,3,Furnished
+1098 NC Amsterdam (Middenmeer),"€3,500 per month",140,4,Upholstered
+1060 RL Amsterdam (Middelveldsche Akerpolder),"€1,750 per month",100,3,Furnished
+1094 CJ Amsterdam (Indische Buurt West),"€2,200 per month",107,3,Furnished
+1056 BS Amsterdam (Van Galenbuurt),"€1,650 per month",50,2,Upholstered
+1017 EG Amsterdam (Grachtengordel-Zuid),"€1,395 per month",37,2,
+1031 KG Amsterdam (Noordelijke IJ-oevers West),"€4,000 per month",110,4,Furnished
+1012 RL Amsterdam (Burgwallen-Nieuwe Zijde),"€2,650 per month",111,3,Upholstered
+1013 BD Amsterdam (Houthavens),"€1,750 per month",50,2,Furnished
+1087 CN Amsterdam (IJburg West),"€2,350 per month",130,4,Furnished
+1055 HX Amsterdam (Landlust),"€2,000 per month",59,3,Upholstered
+1054 ZG Amsterdam (Helmersbuurt),"€1,950 per month",56,2,Furnished
+1076 JR Amsterdam (Stadionbuurt),"€4,250 per month",125,5,Furnished
+1076 KZ Amsterdam (Stadionbuurt),"€2,800 per month",120,4,Upholstered
+1071 JD Amsterdam (Museumkwartier),"€3,950 per month",150,4,Upholstered
+1075 BZ Amsterdam (Willemspark),"€2,850 per month",90,3,Upholstered
+1015 SP Amsterdam (Jordaan),"€2,750 per month",73,3,Furnished
+1034 LV Amsterdam (Banne Buiksloot),"€2,250 per month",93,4,Furnished
+1075 GW Amsterdam (Willemspark),"€11,000 per month",255,10,Upholstered
+1077 VS Amsterdam (Apollobuurt),"€2,850 per month",110,3,Upholstered
+1068 JN Amsterdam (Osdorp-Oost),"€1,550 per month",55,2,Furnished
+1073 CZ Amsterdam (Nieuwe Pijp),"€3,000 per month",88,3,Upholstered
+1011 EJ Amsterdam (Nieuwmarkt/Lastage),"€1,600 per month",46,1,
+1017 AV Amsterdam (Grachtengordel-Zuid),"€3,250 per month",140,3,Upholstered or furnished
+1095 MB Amsterdam (Zeeburgereiland/Nieuwe Diep),"€1,450 per month",48,3,Upholstered or furnished
+1071 ZA Amsterdam (Museumkwartier),"€4,000 per month",198,6,Upholstered or furnished
+1017 JV Amsterdam (Grachtengordel-Zuid),"€2,250 per month",65,2,Furnished
+1081 GP Amsterdam (Buitenveldert-West),"€2,250 per month",73,3,Upholstered
+1011 JH Amsterdam (Nieuwmarkt/Lastage),"€3,250 per month",107,3,Furnished
+1096 AC Amsterdam (Omval/Overamstel),"€3,850 per month",139,3,
+1082 MK Amsterdam (Zuidas),"€5,850 per month",132,3,Upholstered or furnished
+1052 EC Amsterdam (Frederik Hendrikbuurt),"€3,250 per month",108,4,
+"1102 WZ Amsterdam (Bijlmer Centrum (D,F,H))","€1,650 per month",69,3,
+1082 MS Amsterdam (Zuidas),"€8,000 per month",193,4,Furnished
+1018 XH Amsterdam (Weesperbuurt/Plantage),"€2,100 per month",90,2,Furnished
+1014 ZC Amsterdam (Houthavens),"€2,975 per month",100,3,Upholstered
+1017 JV Amsterdam (Grachtengordel-Zuid),"€3,000 per month",110,3,Upholstered
+1073 GJ Amsterdam (Nieuwe Pijp),"€2,300 per month",55,3,Furnished
+1075 BH Amsterdam (Willemspark),"€4,000 per month",85,3,Furnished
+1073 VL Amsterdam (Oude Pijp),"€2,675 per month",83,3,Furnished
+1019 AK Amsterdam (Oostelijk Havengebied),"€2,275 per month",85,3,Furnished
+1071 BM Amsterdam (Museumkwartier),"€2,750 per month",70,3,
+1071 AW Amsterdam (Museumkwartier),"€3,200 per month",162,4,Upholstered
+1083 HM Amsterdam (Zuidas),"€5,000 per month",197,5,Upholstered
+1017 ZA Amsterdam (De Weteringschans),"€3,950 per month",126,3,Furnished
+1032 KH Amsterdam (Volewijck),"€1,395 per month",40,2,Upholstered
+1071 NE Amsterdam (Museumkwartier),"€3,200 per month",135,5,Upholstered
+1013 LM Amsterdam (Haarlemmerbuurt),"€3,250 per month",120,3,Furnished
+1012 MP Amsterdam (Burgwallen-Nieuwe Zijde),"€3,000 per month",92,3,Furnished
+1011 EA Amsterdam (Nieuwmarkt/Lastage),"€4,150 per month",145,4,Furnished
+1083 DD Amsterdam (Buitenveldert-Oost),"€2,950 per month",108,3,Upholstered or furnished
+1016 EJ Amsterdam (Grachtengordel-West),"€2,700 per month",109,4,Upholstered
+1060 NX Amsterdam (Middelveldsche Akerpolder),"€2,000 per month",134,4,Furnished
+1015 BA Amsterdam (Grachtengordel-West),"€3,250 per month",132,5,Furnished
+1077 DW Amsterdam (Apollobuurt),"€5,500 per month",149,6,Upholstered
+1079 MZ Amsterdam (Scheldebuurt),"€1,695 per month",55,2,
+1072 AG Amsterdam (Oude Pijp),"€3,450 per month",101,4,Upholstered
+1077 TB Amsterdam (Apollobuurt),"€3,300 per month",125,4,
+1016 GR Amsterdam (Grachtengordel-West),"€2,850 per month",92,3,
+1053 VK Amsterdam (Van Lennepbuurt),"€2,700 per month",115,2,Furnished
+1016 BB Amsterdam (Grachtengordel-West),"€3,750 per month",133,7,Upholstered
+1054 VW Amsterdam (Helmersbuurt),"€1,750 per month",60,2,Upholstered
+1095 MB Amsterdam (Zeeburgereiland/Nieuwe Diep),"€2,750 per month",145,5,Upholstered
+1095 MB Amsterdam (Zeeburgereiland/Nieuwe Diep),"€1,450 per month",45,2,Furnished
+1056 PM Amsterdam (Van Galenbuurt),"€2,000 per month",70,3,Furnished
+1096 DS Amsterdam (Omval/Overamstel),"€6,500 per month",204,7,
+1012 VC Amsterdam (Burgwallen-Nieuwe Zijde),"€6,250 per month",200,7,Upholstered
+1017 RZ Amsterdam (De Weteringschans),"€2,800 per month",83,4,Upholstered or furnished
+1016 KV Amsterdam (Jordaan),"€2,850 per month",78,3,Furnished
+1015 KV Amsterdam (Jordaan),"€4,500 per month",144,9,Upholstered or furnished
+1016 GK Amsterdam (Grachtengordel-West),"€2,650 per month",88,4,Upholstered or furnished
+1053 RS Amsterdam (Kinkerbuurt),"€1,550 per month",40,2,
+1052 JX Amsterdam (Frederik Hendrikbuurt),"€1,450 per month",50,3,
+1058 NA Amsterdam (Hoofddorppleinbuurt),"€1,995 per month",59,2,Furnished
+1071 MX Amsterdam (Museumkwartier),"€13,500 per month",383,10,
+1091 TB Amsterdam (Weesperzijde),"€1,950 per month",65,2,Furnished
+"1103 TT Amsterdam (Bijlmer Oost (E,G,K))",€550 per month,12,1,Furnished
+1057 DS Amsterdam (Hoofdweg e.o.),"€2,750 per month",106,4,Furnished
+1071 GB Amsterdam (Museumkwartier),"€2,350 per month",68,2,Furnished
+1058 TB Amsterdam (Hoofddorppleinbuurt),"€1,850 per month",66,3,
+1072 KZ Amsterdam (Nieuwe Pijp),"€1,500 per month",50,2,
+1077 CR Amsterdam (Apollobuurt),"€2,575 per month",100,3,Upholstered
+1058 AD Amsterdam (Westindische Buurt),"€2,500 per month",50,2,Furnished
+1054 XH Amsterdam (Helmersbuurt),"€1,850 per month",50,2,Furnished
+1079 AB Amsterdam (Scheldebuurt),"€3,000 per month",143,5,Upholstered
+1013 BD Amsterdam (Houthavens),"€1,488 per month",49,1,
+1068 TD Amsterdam (Osdorp-Oost),"€1,900 per month",73,3,
+1058 AS Amsterdam (Westindische Buurt),"€2,800 per month",97,6,
+1073 EX Amsterdam (Nieuwe Pijp),"€2,450 per month",87,3,Upholstered
+1017 CD Amsterdam (Grachtengordel-Zuid),"€3,950 per month",110,3,Upholstered or furnished
+1053 XB Amsterdam (Da Costabuurt),"€6,500 per month",149,6,Furnished
+1087 CE Amsterdam (IJburg West),"€2,800 per month",110,2,Furnished
+1078 BA Amsterdam (Scheldebuurt),"€1,350 per month",29,2,Furnished
+1075 AD Amsterdam (Willemspark),"€3,950 per month",83,3,Upholstered
+1082 AR Amsterdam (Buitenveldert-Oost),"€2,450 per month",102,3,Furnished
+1052 BH Amsterdam (Staatsliedenbuurt),"€2,950 per month",100,3,Furnished
+1069 GA Amsterdam (Osdorp-Midden),"€2,195 per month",95,3,Furnished
+1016 CR Amsterdam (Jordaan),"€2,950 per month",106,3,Furnished
+1075 BX Amsterdam (Willemspark),"€3,250 per month",180,6,
+1079 HV Amsterdam (Rijnbuurt),"€2,250 per month",83,2,
+1077 DE Amsterdam (Prinses Irenebuurt e.o.),"€2,750 per month",100,4,
+1013 MD Amsterdam (Haarlemmerbuurt),"€3,250 per month",157,3,Furnished
+1012 JL Amsterdam (Burgwallen-Oude Zijde),"€4,000 per month",100,3,Furnished
+1018 VD Amsterdam (Weesperbuurt/Plantage),"€3,500 per month",140,5,Furnished
+1078 WB Amsterdam (IJselbuurt),"€2,475 per month",88,3,Upholstered or furnished
+1075 AD Amsterdam (Willemspark),"€3,950 per month",83,3,Upholstered
+1017 ET Amsterdam (Grachtengordel-Zuid),"€3,950 per month",125,3,
+1071 KV Amsterdam (Museumkwartier),"€2,500 per month",61,2,Upholstered or furnished
+1075 CT Amsterdam (Willemspark),"€4,000 per month",147,4,Furnished
+1094 CJ Amsterdam (Indische Buurt West),"€2,600 per month",142,4,Upholstered
+1077 TA Amsterdam (Apollobuurt),"€3,000 per month",120,3,
+1018 GK Amsterdam (Weesperbuurt/Plantage),"€4,950 per month",142,5,Furnished
+1016 SZ Amsterdam (Jordaan),"€2,500 per month",80,2,Furnished
+1016 AC Amsterdam (Grachtengordel-West),"€3,450 per month",105,4,Furnished
+1079 PE Amsterdam (Scheldebuurt),"€1,855 per month",73,3,
+1015 BV Amsterdam (Grachtengordel-West),"€10,500 per month",190,4,Upholstered or furnished
+1011 NA Amsterdam (Nieuwmarkt/Lastage),"€2,650 per month",95,3,Furnished
+1015 CV Amsterdam (Grachtengordel-West),"€3,000 per month",80,4,Furnished
+1054 GE Amsterdam (Vondelbuurt),"€2,950 per month",125,3,
+1075 HG Amsterdam (Willemspark),"€4,000 per month",140,5,Upholstered
+1077 RL Amsterdam (Apollobuurt),"€4,500 per month",171,7,
+1077 JP Amsterdam (Apollobuurt),"€3,800 per month",134,3,Furnished
+1019 HC Amsterdam (Oostelijk Havengebied),"€2,350 per month",96,3,Upholstered or furnished
+1066 GE Amsterdam (Sloter-/Riekerpolder),"€2,150 per month",94,1,Furnished
+1017 KJ Amsterdam (De Weteringschans),"€13,500 per month",536,5,Upholstered
+"1102 AG Amsterdam (Bijlmer Centrum (D,F,H))","€1,750 per month",54,2,Upholstered or furnished
+1015 BT Amsterdam (Grachtengordel-West),"€2,150 per month",130,3,Furnished
+1092 BT Amsterdam (Oosterparkbuurt),"€2,100 per month",84,3,Upholstered
+1078 LL Amsterdam (Scheldebuurt),"€2,300 per month",75,3,Furnished
+1018 AW Amsterdam (Oostelijke Eilanden/Kadijken),"€3,495 per month",170,4,Furnished
+1087 EN Amsterdam (IJburg West),"€2,700 per month",96,3,Furnished
+1053 BD Amsterdam (Kinkerbuurt),"€2,000 per month",50,2,Furnished
+1079 DD Amsterdam (Scheldebuurt),"€3,250 per month",120,4,
+1056 NR Amsterdam (Van Galenbuurt),"€1,850 per month",60,2,Furnished
+1097 BX Amsterdam (Frankendael),"€3,250 per month",138,5,Upholstered
+1059 TR Amsterdam (Hoofddorppleinbuurt),"€1,995 per month",90,3,Shell
+1077 CK Amsterdam (Apollobuurt),"€4,500 per month",200,6,Upholstered
+1015 RZ Amsterdam (Jordaan),"€2,500 per month",76,4,Furnished
+1071 CS Amsterdam (Museumkwartier),"€5,000 per month",236,4,Furnished
+1071 BA Amsterdam (Museumkwartier),"€3,500 per month",150,3,Upholstered
+1077 PK Amsterdam (Apollobuurt),"€3,950 per month",140,3,Upholstered
+1073 GJ Amsterdam (Nieuwe Pijp),"€1,700 per month",40,2,
+1017 EW Amsterdam (Grachtengordel-Zuid),"€3,250 per month",136,3,Upholstered
+1081 GG Amsterdam (Buitenveldert-West),"€1,650 per month",47,2,
+1071 AH Amsterdam (Museumkwartier),"€7,000 per month",260,7,Upholstered
+1017 CD Amsterdam (Grachtengordel-Zuid),"€5,400 per month",125,3,Furnished
+1067 CJ Amsterdam (Geuzenveld),"€1,160 per month",83,3,
+1075 BJ Amsterdam (Willemspark),"€8,000 per month",366,6,Upholstered
+1017 ZS Amsterdam (De Weteringschans),"€7,950 per month",200,6,Furnished
+1036 LZ Amsterdam (Tuindorp Oostzaan),"€3,100 per month",150,5,Furnished
+1082 RD Amsterdam (Buitenveldert-West),"€2,350 per month",85,3,Furnished
+1017 EM Amsterdam (Grachtengordel-Zuid),"€10,750 per month",320,7,Furnished
+1012 VG Amsterdam (Burgwallen-Nieuwe Zijde),"€2,850 per month",110,2,Furnished
+1071 MJ Amsterdam (Museumkwartier),"€4,750 per month",148,5,Upholstered
+1017 HW Amsterdam (Grachtengordel-Zuid),"€5,000 per month",120,3,Furnished
+1062 KS Amsterdam (Westlandgracht),"€1,665 per month",64,2,
+1078 CG Amsterdam (IJselbuurt),"€1,875 per month",50,3,Upholstered
+1075 TV Amsterdam (Schinkelbuurt),"€3,950 per month",150,4,Upholstered
+1071 ZL Amsterdam (Museumkwartier),"€4,950 per month",140,5,Upholstered
+1012 VR Amsterdam (Burgwallen-Nieuwe Zijde),"€2,750 per month",60,4,Upholstered
+1017 CZ Amsterdam (Grachtengordel-Zuid),"€3,100 per month",90,3,Upholstered
+1075 HM Amsterdam (Willemspark),"€2,950 per month",84,3,Furnished
+1076 DK Amsterdam (Stadionbuurt),"€3,500 per month",127,3,Upholstered
+1018 DA Amsterdam (Weesperbuurt/Plantage),"€2,950 per month",140,4,Upholstered
+1092 AR Amsterdam (Oosterparkbuurt),"€3,000 per month",85,3,Furnished
+1092 AR Amsterdam (Oosterparkbuurt),"€3,000 per month",85,3,Furnished
+1077 SX Amsterdam (Apollobuurt),"€3,000 per month",111,4,Upholstered
+"1104 EA Amsterdam (Bijlmer Oost (E,G,K))","€2,095 per month",132,4,Furnished
+1017 JC Amsterdam (Grachtengordel-Zuid),"€8,950 per month",203,7,
+1018 AW Amsterdam (Oostelijke Eilanden/Kadijken),"€3,500 per month",164,2,
+1011 LA Amsterdam (Nieuwmarkt/Lastage),"€3,500 per month",100,3,Furnished
+1011 HV Amsterdam (Nieuwmarkt/Lastage),"€4,400 per month",189,3,Furnished
+1067 MX Amsterdam (Geuzenveld),"€2,600 per month",110,4,Furnished
+1024 BV Amsterdam (Waterlandpleinbuurt),"€1,295 per month",83,3,
+1077 EV Amsterdam (Apollobuurt),"€4,500 per month",185,6,Upholstered
+1012 JS Amsterdam (Burgwallen-Oude Zijde),"€5,500 per month",125,3,Upholstered or furnished
+1062 KS Amsterdam (Westlandgracht),"€2,250 per month",90,3,Furnished
+1019 JT Amsterdam (Oostelijk Havengebied),"€3,950 per month",175,5,Furnished
+1052 LC Amsterdam (Frederik Hendrikbuurt),"€1,875 per month",52,2,Upholstered
+1071 EZ Amsterdam (Museumkwartier),"€5,000 per month",204,6,Upholstered
+1018 VT Amsterdam (Weesperbuurt/Plantage),"€2,300 per month",75,2,Furnished
+1069 RL Amsterdam (Osdorp-Midden),"€1,995 per month",60,2,Upholstered or furnished
+1019 HM Amsterdam (Oostelijk Havengebied),"€2,750 per month",137,3,
+1025 WH Amsterdam (Elzenhagen),"€3,100 per month",128,7,Furnished
+1011 GD Amsterdam (Nieuwmarkt/Lastage),"€2,500 per month",100,3,Furnished
+1013 HC Amsterdam (Haarlemmerbuurt),"€7,000 per month",200,4,Furnished
+1016 HH Amsterdam (Jordaan),"€9,500 per month",240,7,
+1076 KV Amsterdam (Stadionbuurt),"€3,100 per month",120,4,Upholstered
+1087 NE Amsterdam (IJburg Zuid),"€1,784 per month",114,3,
+1071 GN Amsterdam (Museumkwartier),"€4,950 per month",185,6,Upholstered
+1017 GP Amsterdam (Grachtengordel-Zuid),"€3,450 per month",129,4,
+1077 NL Amsterdam (Apollobuurt),"€4,450 per month",164,6,Upholstered
+1018 KA Amsterdam (Oostelijke Eilanden/Kadijken),"€2,450 per month",104,4,
+1036 KD Amsterdam (Tuindorp Oostzaan),"€4,500 per month",200,10,Upholstered or furnished
+1071 ZS Amsterdam (Museumkwartier),"€4,250 per month",122,7,Upholstered
+1098 WN Amsterdam (Middenmeer),"€2,500 per month",96,3,Furnished
+1033 PG Amsterdam (Noordelijke IJ-oevers West),"€1,694 per month",89,2,Upholstered
+1033 PG Amsterdam (Noordelijke IJ-oevers West),"€1,568 per month",64,2,Upholstered
+1033 PG Amsterdam (Noordelijke IJ-oevers West),"€1,265 per month",63,2,Upholstered
+1033 PG Amsterdam (Noordelijke IJ-oevers West),"€1,487 per month",71,2,Upholstered
+1018 DE Amsterdam (Weesperbuurt/Plantage),"€3,150 per month",147,4,Upholstered
+1031 HX Amsterdam (Noordelijke IJ-oevers West),"€1,550 per month",62,3,
+1095 ME Amsterdam (Zeeburgereiland/Nieuwe Diep),"€2,250 per month",88,3,
+1014 ZA Amsterdam (Houthavens),"€1,688 per month",60,1,
+1013 BD Amsterdam (Houthavens),"€1,328 per month",43,1,
+1016 VX Amsterdam (Jordaan),"€7,500 per month",178,2,Upholstered or furnished
+1031 HX Amsterdam (Noordelijke IJ-oevers West),"€1,550 per month",69,3,
+1031 HX Amsterdam (Noordelijke IJ-oevers West),"€1,747 per month",90,2,
+1072 AV Amsterdam (Nieuwe Pijp),"€1,865 per month",58,3,Furnished
+1018 KZ Amsterdam (Oostelijke Eilanden/Kadijken),"€1,850 per month",84,3,
+1016 EJ Amsterdam (Grachtengordel-West),"€9,750 per month",300,5,Upholstered or furnished
+1059 AB Amsterdam (Hoofddorppleinbuurt),"€3,000 per month",90,4,Upholstered
+1091 GR Amsterdam (Weesperzijde),"€3,250 per month",40,1,Furnished
+1031 HX Amsterdam (Noordelijke IJ-oevers West),"€1,446 per month",62,3,
+1012 PH Amsterdam (Burgwallen-Nieuwe Zijde),"€2,750 per month",110,4,Furnished
+1055 AA Amsterdam (De Kolenkit),"€4,500 per month",50,2,Furnished
+1064 AK Amsterdam (Slotermeer-Zuidwest),"€1,400 per month",65,2,Shell
+1031 HX Amsterdam (Noordelijke IJ-oevers West),"€2,154 per month",106,3,
+1031 HX Amsterdam (Noordelijke IJ-oevers West),"€1,773 per month",74,3,
+1031 HX Amsterdam (Noordelijke IJ-oevers West),"€1,540 per month",69,3,
+1031 HX Amsterdam (Noordelijke IJ-oevers West),"€1,447 per month",63,3,
+1031 HX Amsterdam (Noordelijke IJ-oevers West),"€1,367 per month",62,3,
+1072 CS Amsterdam (Oude Pijp),"€2,900 per month",53,2,Furnished
+1062 AC Amsterdam (Overtoomse Veld),€673 per month,30,1,Upholstered
+1016 GV Amsterdam (Grachtengordel-West),"€4,500 per month",100,3,Upholstered or furnished
+1033 PG Amsterdam (Noordelijke IJ-oevers West),"€2,654 per month",129,4,Upholstered
+1012 SW Amsterdam (Burgwallen-Nieuwe Zijde),"€2,350 per month",65,2,Furnished
+1077 ST Amsterdam (Apollobuurt),"€2,700 per month",120,3,Upholstered or furnished
+1095 MB Amsterdam (Zeeburgereiland/Nieuwe Diep),"€3,400 per month",105,5,Upholstered
+"1102 BL Amsterdam (Bijlmer Centrum (D,F,H))",€655 per month,30,1,Upholstered
+1013 PW Amsterdam (Houthavens),"€2,150 per month",100,4,Furnished
+1062 KS Amsterdam (Westlandgracht),"€2,250 per month",90,3,Furnished
+1013 MM Amsterdam (Haarlemmerbuurt),"€2,550 per month",55,2,Upholstered or furnished
+1075 XL Amsterdam (Schinkelbuurt),"€2,450 per month",70,3,Upholstered or furnished
+1016 GN Amsterdam (Grachtengordel-West),"€1,950 per month",69,2,
+1051 MD Amsterdam (Staatsliedenbuurt),"€1,300 per month",67,1,
+1054 LB Amsterdam (Overtoomse Sluis),"€2,150 per month",50,3,Furnished
+1082 TJ Amsterdam (Buitenveldert-West),"€1,750 per month",67,3,Furnished
+1051 MD Amsterdam (Staatsliedenbuurt),"€1,450 per month",74,2,
+1068 NK Amsterdam (Osdorp-Oost),"€2,000 per month",82,4,Furnished
+1098 BT Amsterdam (Middenmeer),"€2,500 per month",70,3,
+1058 GZ Amsterdam (Westindische Buurt),"€1,700 per month",60,3,Upholstered
+1017 ER Amsterdam (Grachtengordel-Zuid),"€1,900 per month",65,2,Furnished
+1016 KP Amsterdam (Jordaan),"€2,200 per month",67,3,Upholstered
+1097 HH Amsterdam (Frankendael),"€1,800 per month",58,2,Furnished
+1056 KP Amsterdam (Geuzenbuurt),"€1,700 per month",45,2,Upholstered or furnished
+1011 KW Amsterdam (Nieuwmarkt/Lastage),"€2,400 per month",80,3,Furnished
+1017 AN Amsterdam (De Weteringschans),"€2,250 per month",63,3,Upholstered
+1074 AM Amsterdam (Zuid Pijp),"€2,450 per month",65,3,
+1019 LG Amsterdam (Oostelijk Havengebied),"€1,850 per month",86,3,
+1081 BN Amsterdam (Buitenveldert-West),"€4,000 per month",170,7,Upholstered
+1016 AA Amsterdam (Grachtengordel-West),"€1,750 per month",47,1,Furnished
+1019 VK Amsterdam (Oostelijk Havengebied),"€2,300 per month",105,4,Upholstered
+1015 TN Amsterdam (Jordaan),"€2,450 per month",90,3,Upholstered
+1012 GP Amsterdam (Burgwallen-Oude Zijde),"€1,700 per month",80,2,Furnished
+1015 AE Amsterdam (Grachtengordel-West),"€2,150 per month",65,2,Upholstered
+1083 TE Amsterdam (Buitenveldert-Oost),"€1,850 per month",80,3,Upholstered
+1072 LC Amsterdam (Oude Pijp),"€2,400 per month",80,3,Upholstered or furnished
+1025 DX Amsterdam (Buikslotermeer),"€2,000 per month",81,4,Furnished
+1065 LK Amsterdam (Slotervaart Zuid),"€1,350 per month",69,3,
+1075 EN Amsterdam (Willemspark),"€2,250 per month",70,2,Furnished
+1094 JZ Amsterdam (Indische Buurt West),"€1,850 per month",54,2,Upholstered
+1017 CJ Amsterdam (Grachtengordel-Zuid),"€3,150 per month",89,2,
+1013 GB Amsterdam (Haarlemmerbuurt),"€2,250 per month",49,2,Upholstered or furnished
+1074 TX Amsterdam (Zuid Pijp),"€2,250 per month",71,2,Furnished
+1012 DG Amsterdam (Burgwallen-Oude Zijde),"€2,150 per month",99,3,Upholstered
+1013 BD Amsterdam (Houthavens),"€2,000 per month",43,2,Furnished
+1013 AD Amsterdam (Haarlemmerbuurt),"€2,650 per month",85,3,Furnished
+1072 MK Amsterdam (Oude Pijp),"€2,400 per month",105,3,
+1073 RC Amsterdam (Zuid Pijp),"€1,850 per month",47,2,Furnished
+1091 EB Amsterdam (Weesperzijde),"€2,500 per month",75,3,Furnished
+"1102 XT Amsterdam (Bijlmer Centrum (D,F,H))","€1,400 per month",65,2,Upholstered
+1082 KW Amsterdam (Buitenveldert-West),"€2,750 per month",125,4,Upholstered
+1096 GM Amsterdam (Omval/Overamstel),"€2,500 per month",90,2,Furnished
+1106 JN Amsterdam (Holendrecht/Reigersbos),"€1,650 per month",72,3,Furnished
+1033 DC Amsterdam (Tuindorp Oostzaan),"€1,950 per month",75,3,
+1064 EA Amsterdam (Slotermeer-Zuidwest),"€2,250 per month",100,5,Furnished
+1052 SJ Amsterdam (Da Costabuurt),"€2,250 per month",84,3,Upholstered
+1015 GJ Amsterdam (Jordaan),"€2,800 per month",120,3,
+1017 JV Amsterdam (Grachtengordel-Zuid),"€2,100 per month",80,2,Upholstered or furnished
+1078 JS Amsterdam (Scheldebuurt),"€3,250 per month",150,7,
+1083 AX Amsterdam (Buitenveldert-Oost),"€2,000 per month",74,3,Furnished
+1017 ED Amsterdam (Grachtengordel-Zuid),"€2,350 per month",92,2,Furnished
+1016 NH Amsterdam (Jordaan),"€2,640 per month",88,3,Furnished
+1013 AD Amsterdam (Haarlemmerbuurt),"€2,250 per month",82,3,
+1016 RN Amsterdam (Jordaan),"€2,150 per month",65,2,Furnished
+1058 SK Amsterdam (Hoofddorppleinbuurt),"€2,100 per month",89,3,Upholstered
+1011 BL Amsterdam (Nieuwmarkt/Lastage),"€2,450 per month",98,3,
+1078 AD Amsterdam (IJselbuurt),"€1,995 per month",64,3,
+1057 RN Amsterdam (Hoofdweg e.o.),"€1,475 per month",50,2,
+1079 GP Amsterdam (Rijnbuurt),"€2,400 per month",86,3,
+1071 KZ Amsterdam (Museumkwartier),"€3,000 per month",134,4,
+1058 EM Amsterdam (Overtoomse Veld),"€2,400 per month",103,4,Furnished
+1016 RG Amsterdam (Jordaan),"€1,750 per month",60,2,Upholstered or furnished
+1082 HL Amsterdam (Buitenveldert-West),"€2,250 per month",80,4,Furnished
+1016 JB Amsterdam (Jordaan),"€2,495 per month",85,2,Furnished
+1017 DV Amsterdam (Grachtengordel-Zuid),"€2,300 per month",90,5,
+1013 HG Amsterdam (Haarlemmerbuurt),"€2,700 per month",85,3,Upholstered
+1077 NP Amsterdam (Apollobuurt),"€2,950 per month",144,5,
+1071 WV Amsterdam (Museumkwartier),"€3,500 per month",104,4,Upholstered
+1071 RC Amsterdam (Museumkwartier),"€2,000 per month",80,3,
+1016 HE Amsterdam (Jordaan),"€3,500 per month",131,4,
+1052 KA Amsterdam (Frederik Hendrikbuurt),"€2,250 per month",85,5,
+1055 TL Amsterdam (Landlust),"€1,750 per month",71,2,
+1095 BJ Amsterdam (Indische Buurt Oost),"€1,750 per month",62,3,Furnished
+1017 XM Amsterdam (De Weteringschans),"€2,450 per month",70,2,Furnished
+1015 LS Amsterdam (Jordaan),"€3,450 per month",161,3,Furnished
+1078 JR Amsterdam (Scheldebuurt),"€3,750 per month",161,5,Upholstered
+1075 CZ Amsterdam (Willemspark),"€6,500 per month",180,6,
+1011 EH Amsterdam (Burgwallen-Oude Zijde),"€2,500 per month",70,3,Upholstered or furnished
+1056 AK Amsterdam (De Kolenkit),"€3,600 per month",100,4,Furnished
+1018 TN Amsterdam (Weesperbuurt/Plantage),"€1,850 per month",56,2,Upholstered
+1055 RZ Amsterdam (Landlust),"€1,700 per month",48,2,Upholstered
+1019 DR Amsterdam (Oostelijk Havengebied),"€2,495 per month",120,3,Furnished
+1016 JA Amsterdam (Jordaan),"€3,950 per month",181,6,Upholstered
+1015 TT Amsterdam (Jordaan),"€6,000 per month",195,6,Upholstered
+1036 LP Amsterdam (Tuindorp Oostzaan),"€2,500 per month",130,5,Upholstered
+1011 NA Amsterdam (Nieuwmarkt/Lastage),"€3,150 per month",95,3,Furnished
+1016 NT Amsterdam (Jordaan),"€3,500 per month",80,4,Furnished
+1018 SX Amsterdam (Weesperbuurt/Plantage),"€2,750 per month",90,3,Furnished
+1015 DE Amsterdam (Grachtengordel-West),"€2,250 per month",95,2,Furnished
+1015 DE Amsterdam (Grachtengordel-West),"€3,400 per month",160,3,Furnished
