@@ -5,7 +5,7 @@
 
 ## Description 
 
-The goal in this project is to write a python script to do scraping for “pararius website“ [pararius](https://www.pararius.com/english) and get some data from it .
+The goal in this project is to write a python script to do scraping for [“pararius website“](https://www.pararius.com/english) and get some data from it .
 
 ### The required data
 
