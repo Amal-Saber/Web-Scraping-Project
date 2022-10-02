@@ -9,7 +9,7 @@ The goal in this project is to write a python script to do scraping for [“para
 
 ### The required data
 
-1. get the data on all apartment posts in Amsterdam. What data do I need? [price, area, number of rooms, address, if it is apartment furniture or not]
+1. get the data on all apartment posts in Amsterdam. What data do I need? [price, area, number of rooms, address, if the apartment furniture or not]
 
 2. save the scraped data in a CSV file
 
