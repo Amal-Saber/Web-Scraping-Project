@@ -1,5 +1,5 @@
 
-![.](.bs.jpg "any")
+![.](./images/bs.jpg "any")
 
 # Web scraping project(pararius website)
 
